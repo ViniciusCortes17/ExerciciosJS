@@ -179,3 +179,5 @@ let totalImpares = 0;
     }
 console.log("Quantidade total de números pares: " + totalPares);
 console.log("Quantidade total de números impares: " + totalImpares);
+
+/* teste*/ 
