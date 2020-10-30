@@ -1,10 +1,11 @@
-/*a. Crie uma função que seja uma calculadora.*/
 
-const SOMA = 'somar';
-const SUB = 'subtrair';
-const MULT = 'multiplicar';
-const DIV = 'dividir';
 
+
+let SOMA = 'somar' + '+';
+const SUB = 'subtrair' + '-';
+var MULT = 'multiplicar' + '*';
+const DIV = 'dividir' + '/';
+//a. Crie uma função que seja uma calculadora.//
 
 function calculadora(tipoCalculo, num1, num2) {
   let total=0;
